@@ -1,2 +1,3 @@
 # myproject-demo
-This is my first github repository
+This is my first git repository
+Author-Virendra Saw
